@@ -1,4 +1,4 @@
-countTriplets(arr, n, sum) {
+function countTriplets(arr, n, sum){
     // code here
     let count = 0; 
     arr.sort((a,b) => a - b); 
