@@ -21,3 +21,14 @@ function printF(ind, ds, arr, n) {
 const arr = [3, 1, 2];
 const n = arr.length;
 printF(0, [], arr, n);
+
+
+
+// {}
+// 2
+// 1
+// 1 2
+// 3
+// 3 2
+// 3 1
+// 3 1 2
